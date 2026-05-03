@@ -1,6 +1,3 @@
-# sql-analytics-portfolio
-Description: SQL analytics queries covering e-commerce, retention, and funnel analysis
-
 # SQL Analytics Portfolio
 A collection of SQL queries demonstrating analytics engineering skills across 
 e-commerce, retention, and funnel analysis use cases.
