@@ -1,6 +1,5 @@
 # SQL Analytics Portfolio
-A collection of SQL queries demonstrating analytics engineering skills across 
-e-commerce, retention, and funnel analysis use cases.
+A collection of SQL queries for e-commerce, retention, and funnel analysis use cases.
 
 ## Dataset
 Queries are written against the [Brazilian E-Commerce Dataset (Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
