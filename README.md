@@ -24,7 +24,7 @@ End-to-end analytical use cases modeled after real business problems.
 - `01_cohort_retention.sql` — Cohort-based retention analysis to track customer lifecycle
 - `02_funnel_analysis.sql` — Purchase funnel conversion rates by stage, device, and weekly trend
 
-## Skills Demonstrated
+## Skills Applied
 - Joins, aggregations, filtering
 - CTEs and subqueries
 - Window functions — RANK, LAG, running totals, PARTITION BY
